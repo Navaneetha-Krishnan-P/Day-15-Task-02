@@ -1,0 +1,29 @@
+body {
+    background-color: steelblue;
+    color: white;
+}
+
+#myTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#myTable th,
+#myTable td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+#myTable th {
+    color: black;
+    background-color: whitesmoke;
+
+}
+
+button {
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
